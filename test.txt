@@ -1,0 +1,10 @@
+As a general rule,
+if you have an object in Python,
+
+sam and want to convert to that type of objectcall type(my_object) on it. The result can usually
+sam lorem iåsom be called as a function to do the conversion.For
+ instance type(100) results in int, so you can call
+ sam int(my_object) to try convert my_object to an integer. This doesn't always work, but is a good "first
+sam int(my_object) to try convert my_object
+sam int(my_object) to try convert my_object
+sam int(my_object) to try convert my_object
